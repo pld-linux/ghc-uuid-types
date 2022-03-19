@@ -6,7 +6,7 @@
 Summary:	Type definitions for Universally Unique Identifiers
 Name:		ghc-%{pkgname}
 Version:	1.0.3
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/uuid-types
